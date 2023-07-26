@@ -1,16 +1,7 @@
-# spider_task_2
+Desh Gyan
+It an a cross platform application developed in dart language with the use of flutter framework and Country Rest API. Flutter provides a better user experience and a developer friendly way of integrating API in applications.
+This app helps you search across any nation in the world and get brief information about every country,it helps to sort country on the basis of population,alphabateically,area,phone-code.
+It also contains features such as saving favorite country for later reviewing,searching,dark mode,sorting.
 
-Spider task_2
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+How to download?
+This app can be easily downloaded using the apk given in repositry and giving permissions required and just enjoying its features.
